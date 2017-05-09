@@ -1,3 +1,4 @@
 # andelabootcamp_22-day-0
-andela day0 challenge 
-getPrimes function
+andela day-0 challenge 
+getPrimes function 
+tdd using jasmine testing library
